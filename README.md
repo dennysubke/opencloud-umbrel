@@ -1,2 +1,5 @@
 # opencloud-umbrel
-Umbrel-friendly wrapper for OpenCloud
+
+
+This image disables built-in HTTPS and removes hardcoded domain variables,  
+so it runs seamlessly inside Umbrel with its own reverse proxy.
